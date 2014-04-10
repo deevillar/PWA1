@@ -26,13 +26,13 @@ function main(){
 			playerTwo[1] = playerTwo[1] - f2;
 			console.log(playerOne[0]+" : "+playerOne[1]+ " " +playerTwo[0]+" : "+playerTwo[1]);
 
-			var kabal = document.getElementById('kabal');
+			var Thor = document.getElementById('kabal');
 			
-			kabal.childNodes[1].innerHTML =playerOne[1];
+			Thor.childNodes[1].innerHTML =playerOne[1];
 			
-			var kratos = document.getElementById('kratos');
+			var Loki = document.getElementById('kratos');
 			
-			kratos.childNodes[1].innerHTML =playerTwo[1];
+			Loki.childNodes[1].innerHTML =playerTwo[1];
 			
 			//Check for victor
 			var result = winnerCheck();
