@@ -1,4 +1,6 @@
-//duel part 2
+//Dao Villar 4/10/14
+//Programming for Web Apps Section 1
+//Wk2 -- Debug V2
 
 function main(){
 	console.log("FIGHT");
