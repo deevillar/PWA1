@@ -8,8 +8,8 @@
 		 player_One:{name:"Thor",health:100,damage:20},
 		 player_Two:{name:"Loki",health:100,damage:20}
 		};
-	
 
+//player's names/health on screen
 	var thor = document.querySelector("#kabal p");
 //	console.log(thor);
 	thor.innerHTML = players.player_One.name +":"+ players.player_One.health;
