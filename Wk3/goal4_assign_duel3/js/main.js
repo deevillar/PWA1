@@ -2,7 +2,7 @@
 
 //Self Invoking Functions, function start
 (function(){
-	console.log("Fight");
+	console.log("FIGHT!");
 //Player's info, inital health
 	var players = {
 		 player_One:{name:"Thor",health:100,damage:20},
