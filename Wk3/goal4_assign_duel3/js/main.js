@@ -1,4 +1,6 @@
-// JavaScript Document
+//Dao Villar 4/17/14
+//Programming for Web Apps Section 1
+//Wk3 -- The Duel Part III
 
 //Self Invoking Functions, function start
 (function(){
