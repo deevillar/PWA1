@@ -17,7 +17,9 @@
 	var loki = document.querySelector("#kratos p");
 //	console.log(loki);
 	loki.innerHTML = players.player_Two.name +":"+ players.player_Two.health;
+//-----------------------------------------------------------
 
+// starting point of a round
 	var theBell = document.querySelector("#fight_btn h4");
 //	console.log(theBell);
 	var round = 0;
