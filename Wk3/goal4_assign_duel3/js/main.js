@@ -3,7 +3,7 @@
 //Self Invoking Functions, function start
 (function(){
 	console.log("FIGHT!");
-//Player's info, inital health
+//Player's info, inital healths are 100
 	var players = {
 		 player_One:{name:"Thor",health:100,damage:20},
 		 player_Two:{name:"Loki",health:100,damage:20}
